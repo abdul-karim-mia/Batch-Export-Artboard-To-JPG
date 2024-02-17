@@ -3,7 +3,7 @@
 #### Description:
 This script simplifies and automates the process of exporting artboards from PSD files to high and low-quality JPG images in Adobe Photoshop. Designed to enhance the workflow for designers dealing with multiple artboards, this script provides a user-friendly interface and customizable options for efficient batch processing.
 
-[![Watch the script in action](https://img.youtube.com/vi/your-youtube-video-id/mqdefault.jpg)](https://youtu.be/your-youtube-video-id "Batch Artboard To JPG - Photoshop Script")
+[![Watch the script in action](https://img.youtube.com/vi/IRon3xQrBl4/mqdefault.jpg)](https://youtu.be/IRon3xQrBl4 "Batch Artboard To JPG - Photoshop Script")
 
 #### How the Script Works:
 
@@ -24,7 +24,7 @@ This script simplifies and automates the process of exporting artboards from PSD
 3. Go to "File" > "Scripts" > "Browse..." and select the downloaded script file.
 4. Customize settings in the user-friendly interface and click "Export" to start the batch process.
 
-[Download archive]: https://github.com/your-github-username/Batch-Artboard-To-JPG-Script/archive/refs/heads/main.zip
+[Download archive]: https://github.com/abdul-karim-mia/Batch-Export-Artboard-To-JPG/archive/refs/heads/main.zip
 
 #### Usage Instructions:
 
