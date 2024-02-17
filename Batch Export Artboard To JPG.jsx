@@ -394,7 +394,7 @@ function dupLayer() {
     var ref1 = new ActionReference();
     ref1.putClass(charIDToTypeID('Dcmn'));
     desc1.putReference(charIDToTypeID('null'), ref1);
-    desc1.putString(charIDToTypeID('Nm  '), app.activeDocument.name);
+    desc1.putString(charIDToTypeID('Nm  '), app.activeDocument.activeLayer.name);
     var ref2 = new ActionReference();
     ref2.putEnumerated(charIDToTypeID('Lyr '), charIDToTypeID('Ordn'), charIDToTypeID('Trgt'));
     desc1.putReference(charIDToTypeID('Usng'), ref2);
