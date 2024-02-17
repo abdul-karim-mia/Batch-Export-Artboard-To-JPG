@@ -3,7 +3,7 @@
  */
 /*
 <javascriptresource>
-<about>$$$/JavaScripts/BatchArtboardToJPG/About=Batch Artboard To JPG - By Abdul Karim Mia.^r^rCopyright 2023 Abdul Karim Mia.^r^rStreamline the export of artboards from PSD files to high and low-quality JPG images.^r</about>
+<about>$$$/JavaScripts/BatchArtboardToJPG/About=Batch Artboard To JPG - By Abdul Karim Mia.^r^rCopyright 2024 Abdul Karim Mia.^r^rStreamline the export of artboards from PSD files to high and low-quality JPG images.^r</about>
 <category>Abdul's Scripts</category>
 </javascriptresource>
 
