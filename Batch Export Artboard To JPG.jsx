@@ -10,7 +10,7 @@
 Batch-Artboard-To-JPG-Script
 This Adobe Photoshop script automates the export process of artboards from PSD files to high and low-quality JPG images.
 
-Date: [Enter Release Date]
+Date: Feb 17 2024
 Author: Abdul Karim Mia
 Mail: akmia51@gmail.com
 Website: [https://www.abdulkarimmia.com/]
